@@ -10,3 +10,15 @@ C:\Users\Amar\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.
 C:\Users\Amar\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe
 C:\Users\Amar\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.xml
 C:\Users\Amar\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\bin\Debug\Calculator1.xml
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.vbproj.AssemblyReference.cache
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.Resources.resources
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.vbproj.GenerateResource.cache
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.vbproj.CoreCompileInputs.cache
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.xml
+C:\Users\Amar\Documents\GitHub\Calculator-with-Visual-Basic\Calculator1\obj\Debug\Calculator1.pdb

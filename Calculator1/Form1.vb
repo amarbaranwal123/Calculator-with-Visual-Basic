@@ -139,7 +139,7 @@
         ElseIf functions = "/" Then
 
             If secondnum = 0 Then
-                calculatorDisplay.Text = "No ZERO"
+                calculatorDisplay.Text = "No ZEROOO"
 
             Else
                 resultValue = firstnum / secondnum
